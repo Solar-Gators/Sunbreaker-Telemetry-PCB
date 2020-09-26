@@ -15,11 +15,11 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job Group
+Name=
 Description=
 TargetOutputMedium=Mechanical
 VariantName=[No Variations]
-VariantScope=1
+VariantScope=2
 CurrentConfigurationName=Assembly
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
@@ -176,7 +176,7 @@ Configuration9_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModels
 [PublishSettings]
 OutputFilePath1=C:\Users\Public\Documents\Altium\CAN-Shield\Project Outputs for CAN-Shield\Docs\Job1.PDF
 ReleaseManaged1=1
-OutputBasePath1=Project Outputs for Telemetry_board
+OutputBasePath1=
 OutputPathMedia1=Docs
 OutputPathMediaValue1=Docs
 OutputPathOutputer1=
@@ -203,7 +203,7 @@ PDFACompliance1=Disabled
 PDFVersion1=Default
 OutputFilePath2=C:\Users\Public\Documents\Altium\CAN-Shield\Project Outputs for CAN-Shield\Fabrication\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Telemetry_board
+OutputBasePath2=
 OutputPathMedia2=Fabrication
 OutputPathMediaValue2=Fabrication
 OutputPathOutputer2=
@@ -216,7 +216,7 @@ OutputFileNameSpecial2=
 OpenOutput2=1
 OutputFilePath3=C:\Users\Public\Documents\Altium\CAN-Shield\Project Outputs for CAN-Shield\validation\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Telemetry_board
+OutputBasePath3=
 OutputPathMedia3=Validation
 OutputPathMediaValue3=Validation
 OutputPathOutputer3=
@@ -229,7 +229,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=C:\Users\Public\Documents\Altium\CAN-Shield\Project Outputs for CAN-Shield\Mechanical\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Telemetry_board
+OutputBasePath4=
 OutputPathMedia4=Mechanical
 OutputPathMediaValue4=Mechanical
 OutputPathOutputer4=
