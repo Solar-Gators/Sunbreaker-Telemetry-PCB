@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Telemetry_board_pcb.PcbDoc]
+   Generated File[Telemetry_board_pcb-RoundHoles.TXT]
+   Generated File[Telemetry_board_pcb-SlotHoles.TXT]
+   Generated File[Telemetry_board_pcb.LDP]
+   Generated File[Telemetry_board_pcb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:21:21 PM On 9/28/2020

@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Telemetry_board_pcb.PcbDoc   9/28/2020  6:21:20 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Telemetry_board_pcb-RoundHoles.TXT
+ASCII SlotHoles File : Telemetry_board_pcb-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             21        PTH        0.00inch (0.00mm)
+T2      8mil (0.203mm)                                            Round             14        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             25        PTH        0.00inch (0.00mm)
+T4      40mil (1.016mm)                                           Round             28        PTH        0.00inch (0.00mm)
+T5      41mil (1.041mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T7      47mil (1.2mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T8      50mil (1.27mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T9      106mil (2.7mm)                                            Slot              3         PTH        0.00inch (0.00mm)
+T10     30mil (0.75mm)                                            Slot              2         NPTH       0.00inch (0.00mm)
+T11     33mil (0.85mm)                                            Slot              2         NPTH       0.00inch (0.00mm)
+T12     90mil (2.286mm)                                           Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              126
+
+Total Processing Time (hh:mm:ss) : 00:00:00

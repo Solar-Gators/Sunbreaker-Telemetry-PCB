@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\morge\Documents\Morgen\Morgen's File Cabinet\College\Solar Gators\Telemetry\Rev4\Telemetry_board (5-4-2020 12-02-41 PM)\Telemetry_board_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=telemetry_board_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=telemetry_board_pcb-slotholes.txt|DrillLayers=gtl,gbl

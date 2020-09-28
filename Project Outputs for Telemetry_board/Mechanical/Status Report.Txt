@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Telemetry_board_pcb.PcbDoc]
+   Generated File[Telemetry_board_pcb.GTO]
+   Generated File[Telemetry_board_pcb.GTP]
+   Generated File[Telemetry_board_pcb.GTS]
+   Generated File[Telemetry_board_pcb.GTL]
+   Generated File[Telemetry_board_pcb.GBL]
+   Generated File[Telemetry_board_pcb.GBS]
+   Generated File[Telemetry_board_pcb.GM1]
+   Generated File[Telemetry_board_pcb.GM13]
+   Generated File[Telemetry_board_pcb.GM15]
+   Generated File[Telemetry_board_pcb.GKO]
+   Generated File[Telemetry_board_pcb.GPT]
+   Generated File[Telemetry_board_pcb.GPB]
+   Generated File[Telemetry_board_pcb.GD1]
+   Generated File[Telemetry_board_pcb.RUL]
+   Generated File[Telemetry_board_pcb.EXTREP]
+   Generated File[Telemetry_board_pcb.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 6:33:08 PM On 9/28/2020

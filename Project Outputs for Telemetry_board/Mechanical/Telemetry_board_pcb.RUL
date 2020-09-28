@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\morge\Documents\Morgen\Morgen's File Cabinet\College\Solar Gators\Telemetry\Rev4\Telemetry_board (5-4-2020 12-02-41 PM)\Telemetry_board_pcb.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
